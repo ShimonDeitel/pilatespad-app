@@ -1,0 +1,33 @@
+{
+  "identifier" : "Pilatespad",
+  "nonRenewingSubscriptions" : [],
+  "products" : [],
+  "settings" : { "_storeKitErrors" : [] },
+  "subscriptionGroups" : [
+    {
+      "id" : "pilatespad_group",
+      "localizations" : [],
+      "name" : "Pilatespad Pro",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "1.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "pilatespad_pro_monthly",
+          "introductoryOffer" : null,
+          "localizations" : [
+            { "description" : "Apparatus-usage insights and attendance streaks", "displayName" : "Pilatespad Pro", "locale" : "en_US" }
+          ],
+          "productID" : "com.shimondeitel.pilatespad.pro.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Pilatespad Pro Monthly",
+          "subscriptionGroupID" : "pilatespad_group",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : { "major" : 3, "minor" : 0 }
+}
